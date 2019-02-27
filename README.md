@@ -13,4 +13,4 @@ BuildSchool
 
 	BuildSchool
 
-
+區塊結尾要記得換行
